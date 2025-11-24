@@ -1,0 +1,34 @@
+{
+  "data": [
+    null,
+    {
+      "id": 1,
+      "droneLocation": {
+        "geoLocation": { "latitude": 37.7749, "longitude": -122.4194 },
+        "altitude": 50.0
+      },
+      "targetLocations": [
+        { "xCoord": 10.0, "yCoord": -5.0 },
+        { "xCoord": -12.5, "yCoord": 8.0 }
+      ]
+    },
+    {
+      "id": 2,
+      "droneLocation": {
+        "geoLocation": { "latitude": 34.0522, "longitude": -118.2437 },
+        "altitude": 120.5
+      },
+      "targetLocations": [
+        { "xCoord": 5.5, "yCoord": 3.25 }
+      ]
+    },
+    {
+      "id": 3,
+      "droneLocation": {
+        "geoLocation": { "latitude": 51.5074, "longitude": -0.1278 },
+        "altitude": 15.0
+      },
+      "targetLocations": []
+    }
+  ]
+}
