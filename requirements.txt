@@ -1,3 +1,0 @@
-pytest
-# jsonschema is optional for more advanced validation; basic validation is built-in
-# jsonschema
